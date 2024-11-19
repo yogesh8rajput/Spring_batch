@@ -29,10 +29,20 @@
 			<item value="com.mycompany"/>
 		</list>
 		<list key="groupId">
+			<item value="Spring_7"/>
+			<item value="Spring_6"/>
+			<item value="Spring_5"/>
+			<item value="Spring_4"/>
+			<item value="Spring_3"/>
 			<item value="Spring_2"/>
 			<item value="Spring_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_7"/>
+			<item value="Spring_6"/>
+			<item value="Spring_5"/>
+			<item value="Spring_4"/>
+			<item value="Spring_3"/>
 			<item value="Spring_2"/>
 			<item value="Spring_1"/>
 		</list>
