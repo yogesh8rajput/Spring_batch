@@ -1,0 +1,10 @@
+package com.mycompany;
+
+import java.util.Set;
+
+public class Student {
+	list<> skills;
+	Set<> mobile;
+	map<> project;
+
+}

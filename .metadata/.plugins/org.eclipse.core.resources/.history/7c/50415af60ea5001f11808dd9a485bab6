@@ -1,0 +1,8 @@
+package com.mycompany;
+
+public class Student {
+
+	  int Id;
+	  String Name;
+	  double perc;
+}

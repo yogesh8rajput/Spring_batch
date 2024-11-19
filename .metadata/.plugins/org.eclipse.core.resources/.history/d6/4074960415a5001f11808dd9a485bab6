@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p" xsi:schemaLocation=" http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean class="com.mycompany.Student" name="stu1">
+<property name="Id">
+<value>101</value>
+</property>
+<property name="Name">
+<value>Kamal</value>
+</property>
+<property name="perc">
+<value>98.2</value>
+</property>
+</bean>
+<bean class="com.mycompany.Student" name="stu2">
+<property name="Id" value="102"/>
+<property name="Name" value="vimal"/>
+<property name="perc" value="55.5"/>
+</bean>
+<bean class="com.mycompany.Student" name="stu3" p:Id="103" p:Name="Mohan" p:perc="59.5"/>
+</beans>

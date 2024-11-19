@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation=" http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean class="com.mycompany.Student" name="stu1">
+		<property name="skills" >
+		<list>
+		<value>Driver  </value>
+		<value>Plumber </value>
+		<value>Security </value>
+		</list>
+		</property>
+		<property name="mobile">
+		<set>
+		<value>1234567890</value>
+		<value>122</value>
+		<value>123</value>
+		</set>
+		</property>
+		<property name="project">
+		<map>
+		<entry key="p1" value="ddddd"></entry>
+		<entry key="p1" value="d2222"></entry>
+		<entry key="p1" value="22222"></entry>
+		</map>
+		</property>
+		
+		</bean>
+		</beans>
