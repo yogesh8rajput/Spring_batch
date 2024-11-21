@@ -16,7 +16,7 @@ public class Test implements InitializingBean,DisposableBean
 		this.x = x;
 		System.out.println("setting of x");
 	}
-
+/// without ues in properties init
 	public void afterPropertiesSet() throws Exception {
 		
 		System.out.println("Init method");

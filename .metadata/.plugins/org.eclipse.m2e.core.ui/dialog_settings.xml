@@ -29,6 +29,11 @@
 			<item value="com.mycompany"/>
 		</list>
 		<list key="groupId">
+			<item value="Spring_jdbc"/>
+			<item value="Spring_10"/>
+			<item value="Spring_88"/>
+			<item value="Spring_9"/>
+			<item value="Spring_8"/>
 			<item value="Spring_7"/>
 			<item value="Spring_6"/>
 			<item value="Spring_5"/>
@@ -38,6 +43,11 @@
 			<item value="Spring_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_jdbc"/>
+			<item value="Spring_10"/>
+			<item value="Spring_88"/>
+			<item value="Spring_9"/>
+			<item value="Spring_8"/>
 			<item value="Spring_7"/>
 			<item value="Spring_6"/>
 			<item value="Spring_5"/>

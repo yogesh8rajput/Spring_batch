@@ -12,9 +12,11 @@ public class App
 {
     public static void main( String[] args )
     {
+    	
+    	/// without ues in properties init
         AbstractApplicationContext con= new ClassPathXmlApplicationContext("config.xml");
         Test t=(Test) con.getBean("test");
-        System.out.println(t.getX());
+        
         con.registerShutdownHook();
         
     }
