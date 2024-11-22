@@ -18,7 +18,9 @@ public class App
         System.out.println("D_Name:"+d.getD_name());
         System.out.println("D_Profession:"+d.getD_profession());
         
-        Docter2 d2=(Docter2) con.getBean("d1");
+        Docter2 d2=(Docter2) con.getBean("docter2");
         System.out.println(d2);
+        Docter2 d3=(Docter2) con.getBean("docter2");
+        System.out.println(d3);
     }
 }

@@ -9,25 +9,20 @@
 	 http://www.springframework.org/schema/context
 	 http://www.springframework.org/schema/context/spring-context.xsd
 	  http://www.springframework.org/schema/util
-	 http://www.springframework.org/schema/util/spring-util.xsd
-	 
-	 
-	 "
+	 http://www.springframework.org/schema/util/spring-util.xsd "
 	 
 >
 	
-	<context:component-scan base-package="com.mycompany"></context:component-scan>
 	
-	    <util:list list-class="com.mycompany.Docter2" id="d1">
+	    <util:list list-class="java.util.Vector" id="d1">
 	    <value>hello</value>
 	    <value>h2</value>
 	    </util:list>
-	<bean  >
-	<property name="">
-	<ref> 
-
-	</ref></property>
-	</bean>
+	    
+	   
+	    
+	<context:component-scan base-package="com.mycompany"></context:component-scan>
+	
 	
 	</beans>
 		

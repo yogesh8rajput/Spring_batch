@@ -14,7 +14,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+
   <dependencies>
+  
+  
   <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
@@ -36,10 +39,11 @@
 
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
-<groupId>mysql</groupId>
-<artifactId>mysql-connector-java</artifactId>
-<version>8.0.33</version>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.23</version>
 </dependency>
+
 
     <dependency>
       <groupId>junit</groupId>

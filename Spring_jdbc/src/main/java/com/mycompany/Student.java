@@ -3,7 +3,7 @@ package com.mycompany;
 public class Student {
        int rollno;
        String name;
-       String sub;
+       double per;
 	public int getRollno() {
 		return rollno;
 	}
@@ -16,10 +16,11 @@ public class Student {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getSub() {
-		return sub;
+	public double getPer() {
+		return per;
 	}
-	public void setSub(String sub) {
-		this.sub = sub;
+	public void setPer(double per) {
+		this.per = per;
 	}
+
 }

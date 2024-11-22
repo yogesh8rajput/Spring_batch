@@ -2233,3 +2233,228 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-11-22 13:30:59,228 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
 2024-11-22 13:33:21,739 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
 2024-11-22 13:33:21,740 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:49:18,708 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-22 15:50:26,949 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:50:26,955 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:51:24,991 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:51:24,994 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:51:36,686 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:51:36,688 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:52:34,530 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:52:34,532 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:52:52,892 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:52:52,896 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:54:25,396 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:54:25,398 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:55:19,839 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:55:19,843 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 15:57:08,677 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 15:57:08,679 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:01:29,620 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:01:29,622 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:01:43,078 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:01:43,080 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:03:42,055 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:03:42,057 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:03:48,260 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:03:48,263 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:05:50,532 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:05:50,534 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:06:52,879 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:06:52,882 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:07:45,189 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:07:45,193 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:09:19,118 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:09:19,122 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:09:39,145 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:09:39,148 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:10:11,599 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:10:11,604 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:10:44,199 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:10:44,202 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:15:04,716 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:15:04,720 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:31:41,053 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-22 16:31:50,458 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\main\resources
+2024-11-22 16:31:50,471 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_v12\src\test\resources
+2024-11-22 16:32:06,077 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-11-22 16:32:06,117 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 16:32:06,121 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:04:34,407 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:04:34,410 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:04:50,193 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:04:50,196 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:11:31,037 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:11:31,041 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:11:42,983 [Worker-27: Launching App (9)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:11:42,987 [Worker-27: Launching App (9)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:13:39,509 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:13:39,512 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:15:34,419 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:15:34,421 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:16:27,293 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:16:27,295 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:16:46,082 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:16:46,084 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:18:15,182 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:18:15,185 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:18:35,072 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:18:35,075 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:19:37,752 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:19:37,755 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:23:10,966 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring_jdbc:Spring_jdbc:0.0.1-SNAPSHOT @ D:\Spring_Core\Spring_jdbc\pom.xml.
+2024-11-22 17:23:11,033 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-11-22 17:23:11,200 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:23:11,204 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:23:12,430 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:23:12,432 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:24:04,215 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring_jdbc:Spring_jdbc:0.0.1-SNAPSHOT @ D:\Spring_Core\Spring_jdbc\pom.xml.
+2024-11-22 17:24:04,257 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-11-22 17:24:04,326 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:24:04,329 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:24:05,579 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:24:05,581 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:24:30,449 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:24:30,451 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:24:37,683 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:24:37,685 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:25:07,459 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:25:07,461 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:26:09,710 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:26:09,714 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:26:43,548 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:26:43,551 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:28:39,463 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:28:39,465 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:29:26,113 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:29:26,114 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:29:41,144 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:29:41,145 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:30:25,150 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:30:25,152 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:30:38,360 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:30:38,362 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:30:59,346 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:30:59,348 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:32:20,113 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:32:20,116 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:32:31,543 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:32:31,544 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:34:13,584 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:34:13,585 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:34:18,559 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:34:18,561 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:38:06,997 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:38:06,999 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:40:56,800 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:40:56,801 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:41:11,729 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:41:11,730 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:42:13,089 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:42:13,091 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:44:00,283 [Worker-55: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring_jdbc:Spring_jdbc:0.0.1-SNAPSHOT @ D:\Spring_Core\Spring_jdbc\pom.xml.
+2024-11-22 17:44:00,801 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.pom
+2024-11-22 17:44:00,831 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.pom
+2024-11-22 17:44:00,915 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.pom
+2024-11-22 17:44:00,942 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.pom
+2024-11-22 17:44:01,034 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.11.4/protobuf-parent-3.11.4.pom
+2024-11-22 17:44:01,071 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.11.4/protobuf-parent-3.11.4.pom
+2024-11-22 17:44:01,152 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.11.4/protobuf-bom-3.11.4.pom
+2024-11-22 17:44:01,180 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.11.4/protobuf-bom-3.11.4.pom
+2024-11-22 17:44:01,337 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar
+2024-11-22 17:44:02,503 [Worker-55: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar
+2024-11-22 17:44:02,613 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2024-11-22 17:44:03,160 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2024-11-22 17:44:03,230 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:44:03,232 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:44:04,425 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:44:04,427 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:44:04,678 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23-sources.jar
+2024-11-22 17:44:05,848 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23-sources.jar
+2024-11-22 17:44:05,856 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.23
+2024-11-22 17:44:06,051 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4-sources.jar
+2024-11-22 17:44:06,775 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4-sources.jar
+2024-11-22 17:44:06,781 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.11.4
+2024-11-22 17:44:44,998 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:44:45,000 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:45:30,098 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:45:30,100 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:45:44,027 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:45:44,030 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:47:11,353 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:47:11,355 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:47:31,745 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:47:31,747 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:48:39,134 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:48:39,135 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:50:35,366 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:50:35,368 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:52:07,637 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:52:07,639 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:52:22,023 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:52:22,026 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:53:59,456 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:53:59,458 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:54:17,177 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:54:17,178 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:55:55,273 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:55:55,275 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:57:29,541 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:57:29,543 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:58:17,276 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:58:17,278 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 17:58:26,488 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 17:58:26,490 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:42:59,384 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-22 19:44:02,416 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:spring_batch18:0.0.1-SNAPSHOT @ Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\pom.xml.
+2024-11-22 19:44:04,487 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:spring_batch18:0.0.1-SNAPSHOT @ Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\pom.xml.
+2024-11-22 19:44:04,681 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\main\resources
+2024-11-22 19:44:04,689 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\test\resources
+2024-11-22 19:44:06,141 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\main\resources
+2024-11-22 19:44:06,145 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\test\resources
+2024-11-22 19:44:54,126 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\main\resources
+2024-11-22 19:44:54,129 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\test\resources
+2024-11-22 19:45:00,976 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\main\resources
+2024-11-22 19:45:00,979 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory Y:\Repo\New folder\spring_batch1-30-sept\spring_batch18\src\test\resources
+2024-11-22 19:47:29,798 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:47:29,807 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:47:35,574 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:47:35,577 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:48:17,317 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:48:17,323 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:48:22,207 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:48:22,211 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:48:55,851 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:48:55,853 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:49:27,584 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:49:27,586 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:51:43,786 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:51:43,789 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:54:00,981 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:54:00,983 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:54:40,446 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:54:40,449 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:56:36,517 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:56:36,522 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:57:02,202 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:57:02,204 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:57:27,403 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:57:27,405 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:57:47,222 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:57:47,223 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:57:55,886 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:57:55,889 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 19:59:12,507 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 19:59:12,510 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 20:00:19,835 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 20:00:19,836 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 20:01:00,870 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 20:01:00,872 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 20:01:07,605 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 20:01:07,610 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 20:01:38,037 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 20:01:38,039 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 20:01:53,243 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 20:01:53,245 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
+2024-11-22 20:02:25,129 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\main\resources
+2024-11-22 20:02:25,132 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Core\Spring_jdbc\src\test\resources
