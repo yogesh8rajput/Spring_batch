@@ -4,8 +4,19 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:p="http://www.springframework.org/schema/p"
 	xsi:schemaLocation=" http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-	<bean class="com.mycompany.Test" name="test">
-		<property name="x"  value="1000"/>
+	<bean class="com.mycompany.Address" name="address1">
+		<property name="city" value="Indore"/>
+		<property name="state" value="MP"/>
 		
 		</bean>
+		<bean class="com.mycompany.Address" name="address2">
+		<property name="city" value="Harda"/>
+		<property name="state" value="hoshgabad"/>
+		
+		</bean>
+		
+		<bean class="com.mycompany.Employee" name="emp" autowire="byName"/>
+		<!--    This type excecute in only one bean in apply not both bean are apply
+		<bean class="com.mycompany.Employee" name="emp" autowire="byType"/>
+		-->
 		</beans>

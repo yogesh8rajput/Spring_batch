@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation=" http://www.springframework.org/schema/beans
+	 http://www.springframework.org/schema/beans/spring-beans.xsd  
+	 http://www.springframework.org/schema/util
+	 http://www.springframework.org/schema/util/spring-util.xsd
+	 ">
+	<util:set set-class="java.util.TreeSet" id="set1">
+	<value>Mukesh sir </value>
+	<value> Milian sir</value>
+	<value>Sir ji </value>
+	<value>Head Master ji</value>
+	</util:set>
+	<bean class="com.mycompany.PersonSet" name="perSet" >
+	<property name="name" >
+	<ref bean="set1"/>
+	
+	
+	</property>
+	
+	</bean>
+	
+	<util:list list-class="java.util.LinkedList" id="list1">
+	<value>Mukesh sir </value>
+	<value> Milian sir</value>
+	<value>Sir ji </value>
+	<value>Head Master ji</value>
+	</util:list>
+	<bean class="com.mycompany.PersonList" name="perList" >
+	<property name="name" >
+	<ref bean="list1"/>
+	
+	
+	</property>
+	
+	</bean>
+	
+	<util:map map-class="java.util.HashMap" id="map1">
+	<entry key="m1" value="mukesh1 ji"/>
+	<entry key="m2" value="mukesh2 ji"/>
+	<entry key="m3" value="mukesh3 ji"/>
+	</util:map>
+	<bean class="com.mycompany.PersonMap" name="perMap" >
+	<property name="name" >
+	<ref bean="map1"/>
+	
+	
+	</property>
+	
+	</bean>
+	
+	
+	    
+	
+	
+	</beans>
+		

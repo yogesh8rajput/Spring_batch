@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Spring_Core\Spring_v12\src\main\java\com\mycompany\App.java"/>
 			<item value="D:\Spring_Core\Spring_1\src\main\java\com\mycompany\App.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -29,6 +30,10 @@
 			<item value="com.mycompany"/>
 		</list>
 		<list key="groupId">
+			<item value="Spring_p13"/>
+			<item value="Spring_v12"/>
+			<item value="Spring_e11"/>
+			<item value="Spring_e10"/>
 			<item value="Spring_jdbc"/>
 			<item value="Spring_10"/>
 			<item value="Spring_88"/>
@@ -40,9 +45,12 @@
 			<item value="Spring_4"/>
 			<item value="Spring_3"/>
 			<item value="Spring_2"/>
-			<item value="Spring_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_p13"/>
+			<item value="Spring_v12"/>
+			<item value="Spring_e11"/>
+			<item value="Spring_e10"/>
 			<item value="Spring_jdbc"/>
 			<item value="Spring_10"/>
 			<item value="Spring_88"/>
@@ -54,7 +62,6 @@
 			<item value="Spring_4"/>
 			<item value="Spring_3"/>
 			<item value="Spring_2"/>
-			<item value="Spring_1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

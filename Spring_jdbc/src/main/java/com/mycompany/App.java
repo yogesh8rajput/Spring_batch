@@ -13,7 +13,7 @@ public class App
     public static void main( String[] args )
     {
        ApplicationContext con=new ClassPathXmlApplicationContext("config.xml");
-       JdbcTemplate jt=(JdbcTemplate)con.getBean("my_jdbc",JdbcTemplate.class);
+       JdbcTemplate jt=(JdbcTemplate)con.getBean("jdbc",JdbcTemplate.class);
        
        System.out.println(jt);
     }
