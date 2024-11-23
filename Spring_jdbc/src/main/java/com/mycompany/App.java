@@ -22,7 +22,7 @@ public class App {
 		// insert data
 		String query = "insert into student1(rollno,name,per) values(?,?,?)";
 
-		int i = jt.update(query, 102, "lala", 123.3);
+		int i = jt.update(query, 103, "lalaby", 13.3);
 
 		System.out.println("no of row inserted=" + i);
 		
