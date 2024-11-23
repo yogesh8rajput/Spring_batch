@@ -19,6 +19,7 @@ public class App
 		JdbcTemplate jt = (JdbcTemplate) con.getBean("my_jdbc", JdbcTemplate.class);
 
 		System.out.println(jt);
+//-----------------------------------------------------------------------------------------		
 		// insert data
 		Scanner sc=new Scanner(System.in);
 //		System.out.println("Enter your Rollno");
@@ -33,7 +34,8 @@ public class App
 //		int i = jt.update(query, rollno, name, per);
 //
 //		System.out.println("Data inserted=" + i);
-//		
+//-----------------------------------------------------------------------------------------		
+	
 		//delete data
 //		System.out.println("Enter your Rollno");
 //	     int rollno1=sc.nextInt();
@@ -43,20 +45,35 @@ public class App
 //			int i = jt.update(query,rollno1);
 //		
 //			System.out.println("delete" + i);
+//-----------------------------------------------------------------------------------------		
 		
 		//Update data
-		System.out.println("Enter your Rollno");
-	     int rollno1=sc.nextInt();
-	     sc.nextLine();
-	     System.out.println("Enter your Name");
-	     String name=sc.nextLine();
+//		System.out.println("Enter your Rollno");
+//	     int rollno1=sc.nextInt();
+//	     sc.nextLine();
+//	     System.out.println("Enter your Name");
+//	     String name=sc.nextLine();
+//		
+//		String query = "update student1 set name=? where rollno=?";
+//		
+//			int i = jt.update(query,name,rollno1);
+//		
+//			System.out.println("Update=" + i);
 		
-		String query = "update student1 set name=? where rollno=?";
+//-----------------------------------------------------------------------------------------		
+	     System.out.println("Enter Your Rollno:");
+	  
+			int rollno=sc.nextInt();
+			String q = "select * from student1 where rollno=?";
+			
+			Student s=jt.queryForObject(q, new RowMapperImpl(),rollno);
 		
-			int i = jt.update(query,name,rollno1);
-		
-			System.out.println("Update=" + i);
-		
+			
+			System.out.println("Rollno:=" + s.getRollno());
+			System.out.println("Name:=" + s.getName());
+			System.out.println("Percentage:=" + s.getPer());
+			
+			
 	}
 
 

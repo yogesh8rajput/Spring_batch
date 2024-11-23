@@ -19,26 +19,35 @@ public class App {
 		JdbcTemplate jt = (JdbcTemplate) con.getBean("my_jdbc", JdbcTemplate.class);
 
 		// System.out.println(jt);
+//----------------------------------------------------------------------------------		
 		// insert data
-		String query = "insert into student1(rollno,name,per) values(?,?,?)";
-
-		int i = jt.update(query, 103, "lalaby", 13.3);
-
-		System.out.println("no of row inserted=" + i);
-		
+//		String query = "insert into student1(rollno,name,per) values(?,?,?)";
+//
+//		int i = jt.update(query, 103, "lalaby", 13.3);
+//
+//		System.out.println("no of row inserted=" + i);
+//---------------------------------------------------------------------------------------------
 //		delete data
 //		String query = "delete from student1 where rollno=?";
 //		
 //			int i = jt.update(query,420);
 //		
 //			System.out.println("delete=" + i);
-		
+//	------------------------------------------------------------------------------	
 		//Update data
 //		String query = "update student1 set per=? where rollno=?";
 //		
 //			int i = jt.update(query,20.0,101);
 //		
 //			System.out.println("Update=" + i);
+//---------------------------------------------------------------------------------		
+//	 		Select Student
 		
+		String query = "select * from student1 where rollno=?";
+//		
+		Student s=jt.queryForObject(query, new RowMapperImpl(),110);
+	
+		System.out.println("Show=" + s.getName());
+	
 	}
 }
