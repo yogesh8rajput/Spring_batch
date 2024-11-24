@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="java.awt.image.renderable.ContextualRenderedImageFactory"/>
     <fullyQualifiedTypeName name="org.springframework.cglib.proxy.Factory"/>
     <fullyQualifiedTypeName name="javax.naming.Context"/>
-    <fullyQualifiedTypeName name="com.mycompany.Student"/>
     <fullyQualifiedTypeName name="com.mycompany.Patient"/>
     <fullyQualifiedTypeName name="com.mycompany.Test"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.InitializingBean"/>
@@ -36,4 +35,7 @@
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
+    <fullyQualifiedTypeName name="com.mycompany.Student"/>
+    <fullyQualifiedTypeName name="com.mycompany.RowMapperImpl"/>
 </qualifiedTypeNameHistroy>
