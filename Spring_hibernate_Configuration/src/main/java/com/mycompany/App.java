@@ -14,11 +14,31 @@ public class App
         ApplicationContext con =new ClassPathXmlApplicationContext("config.xml");
         
         Student s=new Student();
-        s.setId(1);
-        s.setName("Ayush");
-        s.setPercent(79.0);
+//        s.setId(1);
+//        s.setName("Ayush");
+//        s.setPercent(79.0);
+//        StudentDao sd=con.getBean("studentDao",StudentDao.class);
+//        int i=sd.insert(s);
+//        System.out.println("Done"+i)
+        		
+        s.setId(101);
         StudentDao sd=con.getBean("studentDao",StudentDao.class);
-        int i=sd.insert(s);
-        System.out.println("Done"+i);
+        sd.delete(s);
+        
+//      Update the data 
+//		System.out.println("Enter Your Rollno");
+//		int r = sc.nextInt();
+//		sc.nextLine();
+//		System.out.print("Enter new name: ");
+//		String name = sc.nextLine();
+//		System.out.print("Enter new per: ");
+//		double per = sc.nextDouble();
+//		s.setId(r);
+//		s.setName(name);
+//		s.setPercent(per);
+//		StudentDao sd = con.getBean("studentDao", StudentDao.class);
+//		sd.update(s);
+//		System.out.println("Update");
+//		sc.close();
     }
 }

@@ -1,5 +1,7 @@
 package com.mycompany;
 
+import java.util.List;
+
 import javax.transaction.Transactional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,5 +30,17 @@ public class StudentDao {
 		ht.delete(st);
 		
 	}
+	
+	public void  update(Student st)
+	{
+		ht.update(st);
+	
+	}
+	public List<Student> select(Student st)
+	{
+		List <Student> i=ht.loadAll(Student.class);
+	return i;
+	}
+	
 	
 }

@@ -23,4 +23,14 @@ public class StudentDao {
 		int i=(Integer)ht.save(stud);
 		return i;
 	}
+	
+	public void  delete(Student stud)
+	{
+		ht.delete(stud);
+	}
+	public void  update(Student st)
+	{
+		ht.update(st);
+	
+	}
 }
