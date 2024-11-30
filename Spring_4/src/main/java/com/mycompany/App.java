@@ -15,6 +15,6 @@ public class App
        Patient p=(Patient) con.getBean("patient1");
        System.out.println("Patient id:"+p.pno);
        System.out.println("Patient Name:"+p.bpressure);
-       System.out.println("Blood pressure:"+p.pname);
+       System.out.println("Blood pressuree:"+p.pname);
     }
 }
