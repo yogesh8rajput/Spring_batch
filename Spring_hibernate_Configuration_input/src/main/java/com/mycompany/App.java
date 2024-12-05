@@ -35,7 +35,7 @@ public class App {
 //        int r=sc.nextInt();
 //        s.setId(r);
 //        StudentDao sd=con.getBean("studentDao",StudentDao.class);
-//    sd.delete(s);
+//        sd.delete(s);
 
 //        Update the data 
 //		System.out.println("Enter Your Rollno");
