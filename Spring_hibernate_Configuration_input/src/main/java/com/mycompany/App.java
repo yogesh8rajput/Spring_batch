@@ -54,7 +54,7 @@ public class App {
 //		sc.close();
 
 		List<Student> li=sd.select(s);
-		for (Student st : li) {
+		for (Student st : l	i) {
 			System.out.println("RollNo:"+st.getId());
 			System.out.println("Name:"+st.getName());
 			System.out.println("Percent"+st.getPercent());
